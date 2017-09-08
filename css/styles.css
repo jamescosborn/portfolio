@@ -4,4 +4,8 @@ h1 {
 
 body {
   font-family: sans-serif;
+  background-image:url(../img/gradient.jpg);
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
