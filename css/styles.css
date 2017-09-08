@@ -8,6 +8,8 @@ body {
   background-attachment:fixed;
   background-repeat: no-repeat;
   background-size: cover;
+  margin-left: 10px;
+  padding: 10px;
 }
 
 .important {
@@ -17,7 +19,6 @@ body {
 .zesty {
   color: red;
   font-style: italic;
-  font-style: bold;
 }
 
 .bluetrenchcoat {
