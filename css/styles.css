@@ -9,3 +9,17 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.important {
+  color: red;
+}
+
+.zesty {
+  color: red;
+  font-style: italic;
+  font-style: bold;
+}
+
+.bluetrenchcoat {
+  color: blue
+}
