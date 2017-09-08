@@ -24,3 +24,15 @@ body {
 .bluetrenchcoat {
   color: blue
 }
+
+.main {
+  float: right;
+}
+
+.larger {
+  font-size: 22px;
+}
+
+img {
+  margin-left: 5px;
+}
